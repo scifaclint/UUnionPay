@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "UUnionPay",
+    "slug": "UUnionPay",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/appicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "$(UnionPay) needs access to your Camera.",
+        "NSMicrophoneUsageDescription": "$(UnionPay) needs access to your Microphone."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.gen7th.UUnionPay"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-notifications",
+      [
+        "expo-camera",
+        {
+          "cameraPermisions": "Allow app to access camera",
+          "recordAudioAndroid": false
+        }
+      ],
+      [
+        "react-native-vision-camera",
+        {
+          "cameraPermissionText": "$(UnionPay) needs access to your Camera.",
+          "enableMicrophonePermission": true,
+          "microphonePermissionText": "$(UnionPay) needs access to your Microphone."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f61d00d7-4ffc-4feb-bbc5-7d911dfe2477"
+      }
+    }
+  }
+}

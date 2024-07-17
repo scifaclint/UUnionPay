@@ -1,0 +1,68 @@
+                  home screen 
+
+
+account image empty 
+
+
+
+divide section into of this screen  :( 
+
+
+notification, account,welcome and available balance box 
+
+
+quick action and all the components into one box 
+
+
+recent transaction and transaction message box 
+
+
+bottom navigations 
+
+
+make default customizable buttom which is reusable 
+
+
+quick acition get view on its own 
+
+)
+
+
+*create component for buttom navigation bar 
+
+* app component for recent transactions 
+
+* make only transfer and home button clickable 
+
+*currencies should be in cedis 
+
+
+
+or make them all clickable later but no functions attached 
+
+
+
+ transfer and payment 
+
+keep (
+
+two logos at the top 
+
+source account  and 
+destination account only needed
+
+clear the rest 
+
+proceed button
+
+buttom navigation should be present at the bottom 
+)
+
+
+
+
+                         Transfer confirmation procedding 
+
+
+
+

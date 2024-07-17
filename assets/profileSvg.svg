@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 99.013245 122.5" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-719.06 -548.25)" stroke-miterlimit="10">
+  <path d="m767.44 599.51c35 0 45 10 48.325 30.107 3.3203 20.107 1.6748 39.893-48.325 39.893s-50-20-45-40 10-30 45-30" fill="#2e5e99" fill-rule="evenodd" stroke="#1e4a85" stroke-width="2.5"/>
+  <path d="m757.44 599.51h25l-15 55z" fill="#fff" fill-rule="evenodd" stroke="#1e4a85" stroke-width="2.5"/>
+  <path d="m752.44 594.51 10 10-5 5z" fill="#6161ff" fill-rule="evenodd" stroke="#1e4a85" stroke-width="2.5"/>
+  <path d="m777.44 604.51 10-10-5 15z" fill="#6161ff" fill-rule="evenodd" stroke="#1e4a85" stroke-width="2.5"/>
+  <path d="m742.44 629.51c-5.3418 9.0674-7.9443 19.487-7.5 30" fill="none" stroke="#1e4a85" stroke-width="1.25"/>
+  <path d="m799.94 659.51c0.9375-10.264-0.786-20.596-5-30" fill="none" stroke="#1e4a85" stroke-width="1.25"/>
+  <path d="m797.44 577.01c0 15.186-12.314 27.5-27.5 27.5s-27.5-12.314-27.5-27.5 12.31-27.5 27.5-27.5 27.5 12.31 27.5 27.5" fill="#ffd9b5" fill-rule="evenodd" stroke="#ffb068" stroke-width="2.5"/>
+ </g>
+</svg>

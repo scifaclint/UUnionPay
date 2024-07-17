@@ -1,0 +1,38 @@
+
+authentication state with firebase so no login needed if already
+ log in     -- last hour 
+
+//
+background face scan camera capture logic : 
+
+
+// push notifications local and server side // use that to re-render 
+// niggas video 
+
+// internet connectivity check also : 
+
+********************************************
+background facescan instead : 
+
+onlogin : 
+
+
+// ; implement logic to send pictures to server 
+
+// base on output should give it back to previous screen -- ( how to pass data from a modal back to main screen ) 
+
+ or 
+
+// renaming the pictues and better way to represent this images 
+
+// decrypt it into from and to base64 back in python : 
+
+
+// stop the camera or break a useEffect in code  
+
+// silence camera with some audio // no sound 
+
+
+*********************************************************** 
+
+eject from expo to react native and see wossum 
